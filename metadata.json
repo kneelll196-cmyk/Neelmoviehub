@@ -1,0 +1,5 @@
+{
+  "name": "CinePass - Movie Ticket Booking",
+  "description": "A full-featured movie ticket booking platform similar to BookMyShow with seat selection, payment flow, and automated ticket confirmations.",
+  "requestFramePermissions": []
+}
